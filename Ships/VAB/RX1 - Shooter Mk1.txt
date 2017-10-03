@@ -1,0 +1,26 @@
+SHOOTER 1 STATS
+
+
+STAGE 1 (ASL)
+gk: 9.82 m/s^2
+Thrust - Flea (5x): 814.545 kN
+ISP: 140
+Mass: 13.54 --> 8.29t
+TWR: Ft / (M * g) = 814.545 / (13.54 * 9.82) = 8.26170876575 SI
+Delta V: ln(Ms / Me) * ISP * gk = ln(13.54 / 8.29) * 140 * 9.82 = 674.474540554 m/s
+
+
+STAGE 2 (ASL)
+gk: 9.82 m/s^2
+Thrust - Flea (3x): 488.727 kN
+ISP: 140
+Mass: 5.99t --> 2.84t
+Delta V: ln(Ms / Me) * ISP * gk = ln(5.99 / 2.84) * 140 * 9.82 = 1025.99586247 m/s
+
+
+STAGE 3 (ASL)
+gk: 9.82 m/s^2
+Thrust - Flea (1x): 162.909 kN
+ISP: 140
+Mass: 2.49 -- > 1.44t
+Delta V: ln(Ms / Me) * ISP * gk = ln(2.49 / 1.44) * 140 * 9.82 = 752.894917803 m/s
